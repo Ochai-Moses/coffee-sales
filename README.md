@@ -1,5 +1,5 @@
 # coffee-sales
-Coffee Sales Analysis
+<h1>Coffee Sales Analysis</h1>
 <p>Coffee Sales Analysis
 Overview
 This Excel workbook contains sales data for a coffee shop, tracking orders from 2019 to 2022. The data includes detailed information about customer purchases, product types, and sales metrics.

@@ -53,4 +53,4 @@ Analyze seasonal trends in coffee sales
 Identify top-selling products and customer segments
 
 The data is well-structured with formulas automating many calculations (VLOOKUPs for customer/product info, sales calculations), making it suitable for further business intelligence development.</p>
-[dashboard](coffe_sales_analysis.png)
+[dashboard](https://github.com/Ochai-Moses/coffee-sales/edit/main/excel%201%20coffe%20sales/coffee_sales_analysis.png)
